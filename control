@@ -1,0 +1,11 @@
+Package: com.miro.bluetoothnoclicks
+Name: BluetoothNoClicks
+Depends: firmware (>=13.0), mobilesubstrate
+Version: 1.0
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.bluetoothnoclicks
+Description: Automatically turn-off keyboard click sound if Airpods/Bluetooth is connected.
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Author: MiRO <tweaks_support@miro92.com>
+Section: Tweaks
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios14
